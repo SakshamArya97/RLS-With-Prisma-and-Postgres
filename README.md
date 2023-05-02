@@ -1,0 +1,1 @@
+This project helps implement RLS with the help of Prisma and Postgres.
